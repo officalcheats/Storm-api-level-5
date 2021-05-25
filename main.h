@@ -1,0 +1,15 @@
+#pragma once
+#include <windows.h>
+#include <string>
+#include <filesystem>
+#include <future>
+#include "thread.h"
+#include "Memory.h"
+#include "Environment.h"
+#include "Env.Functions.cpp"
+#include "InitScript.cpp"
+#include "Drawing.h"
+#include "Console.h"
+#include "AntiLogs.h"
+#include "AntiTaint.h"
+#include "JSONParser.h"
